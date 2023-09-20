@@ -56,10 +56,6 @@
 <!-- LIVE DEMO AND THE DEPLOY -->
 ### Home page
 
-## 🚀 Live Demo and video <a name="live-demo"></a>
-
-- [Click Here]()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
