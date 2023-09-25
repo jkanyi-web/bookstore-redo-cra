@@ -41,7 +41,7 @@
 
 ### Key Features <a name="key-features"></a>
 
--[ ] Vite React App
+-[ ] create-react-app
 -[ ] reusable components: /components.
 -[ ] Setup your router inside of <App>
 -[ ] Add 2 routes in your application, each should render a page component:
@@ -103,7 +103,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 
 - Clone the repository
 - Run `npm install`
-- Run `npm run dev` to start the server
+- Run `npm start` to start the server
 - Run `npm run build` to build the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
